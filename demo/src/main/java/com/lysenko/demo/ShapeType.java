@@ -1,4 +1,4 @@
-package com.lysenko.demo.shapes;
+package com.lysenko.demo;
 
 public enum ShapeType {
     CIRCLE,
